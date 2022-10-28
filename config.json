@@ -1,0 +1,6 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": "9998",
+  "data-db-connection": "mongodb+srv://admin:admin@cluster0.dolcbdp.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "BD-Registraduria"
+}
